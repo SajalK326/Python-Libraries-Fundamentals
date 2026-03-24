@@ -18,7 +18,7 @@ To run the notebooks locally, make sure you have:
 - Required libraries installed:
 
 ```bash
-pip install numpy pandas jupyter
+pip install numpy pandas jupyter matplotlib
 ```
 <br>
 
@@ -47,9 +47,14 @@ pip install numpy pandas jupyter
 <br>
 
 ## Future Plans
-- Add more libraries (Matplotlib, Seaborn, SciPy, Scikit-learn, etc.)
+- Add more libraries (Seaborn, SciPy, Scikit-learn, etc.)
 - Improve explanations and comments
 - Add small practice exercises
+
+<br>
+
+## Updates
+- Added MatPlotLib cheatsheet (24-03-2026)
 
 <br>
 

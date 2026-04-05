@@ -18,7 +18,7 @@ To run the notebooks locally, make sure you have:
 - Required libraries installed:
 
 ```bash
-pip install numpy pandas jupyter matplotlib
+pip install numpy pandas jupyter matplotlib seaborn plotly
 ```
 <br>
 
@@ -47,15 +47,16 @@ pip install numpy pandas jupyter matplotlib
 <br>
 
 ## Future Plans
-- Add more libraries (Seaborn, SciPy, Scikit-learn, etc.)
+- Add more libraries (SciPy, Scikit-learn, etc.)
 - Improve explanations and comments
 - Add small practice exercises
 
 <br>
 
 ## Updates
-- Added MatPlotLib cheatsheet (24-03-2026)
+- Added MatPlotLib tutorial (24-03-2026)
 - Added some Advanced concepts of Matplotlib (31-03-2026)
+- Added Seaborn tutorial (05-04-2026)
 
 <br>
 

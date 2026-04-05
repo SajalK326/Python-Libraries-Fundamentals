@@ -55,6 +55,7 @@ pip install numpy pandas jupyter matplotlib
 
 ## Updates
 - Added MatPlotLib cheatsheet (24-03-2026)
+- Added some Advanced concepts of Matplotlib (31-03-2026)
 
 <br>
 
